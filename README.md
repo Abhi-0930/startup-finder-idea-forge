@@ -84,25 +84,4 @@ src/
 ## 🔧 Available Scripts
 
 - `npm run dev` - Start development server
-- `npm run build` - Build for production
-- `npm run start` - Start production server
-- `npm run lint` - Run ESLint
-- `npm run typecheck` - Run TypeScript checks
-- `npm run genkit:dev` - Start Genkit development server
-- `npm run genkit:watch` - Start Genkit in watch mode
 
-## 🚀 Deployment
-
-The app is configured for Firebase App Hosting. Deploy with:
-
-```bash
-firebase deploy
-```
-
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
